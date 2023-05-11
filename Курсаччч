@@ -1,0 +1,19 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+        <div id="header">
+            <div id="menu">
+                <ul>
+                    <img src="821980.png">
+                    <li><a href="" class="active">Главная</a></li>
+                    <li><a href="">О компании</a></li>
+                    <li><a href="">Продукты</a></li>
+                    <li><a href="">Информация</a></li>
+                    <li><a href="">Контакты</a></li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
